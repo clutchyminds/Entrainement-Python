@@ -1,0 +1,24 @@
+EXERCICE 16 : CRÉATION DE LOGS
+- Consigne : Créer un script qui demande à l'utilisateur de saisir du texte et l'enregistre dans un fichier notes.txt sans écraser le contenu précédent.
+- Notions : with open(), mode append ('a').
+- Temps : 15 min.
+
+EXERCICE 17 : CALCULATEUR DE MOYENNE SUR FICHIER
+- Consigne : Lire un fichier contenant une liste de nombres (un par ligne) et calculer leur moyenne.
+- Notions : Lecture de fichiers, conversion de données lues.
+- Temps : 20 min.
+
+EXERCICE 18 : GESTION D'ERREUR DE SAISIE
+- Consigne : Demander un nombre à l'utilisateur. Si l'utilisateur saisit du texte au lieu d'un nombre, afficher "Erreur : veuillez entrer un chiffre" au lieu de laisser le programme planter.
+- Notions : Blocs try / except, ValueError.
+- Temps : 15 min.
+
+EXERCICE 19 : RECHERCHE DE MOT DANS UN DOCUMENT
+- Consigne : Écrire un script qui ouvre un fichier texte et compte combien de fois un mot spécifique (choisi par l'utilisateur) apparaît.
+- Notions : Méthodes de fichiers, .count().
+- Temps : 20 min.
+
+EXERCICE 20 : ARCHIVAGE JSON
+- Consigne : Convertir un dictionnaire complexe (contenant des listes et d'autres dictionnaires) en un fichier .json. Créer un script séparé pour relire ce fichier.
+- Notions : Module json, dump, load.
+- Temps : 25 min.
