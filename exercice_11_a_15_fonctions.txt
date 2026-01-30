@@ -1,0 +1,24 @@
+EXERCICE 11 : VALIDATEUR DE TEMPÉRATURE
+- Consigne : Écrire une fonction est_gel(temp) qui retourne un booléen. Utiliser cette fonction dans une boucle pour tester une liste de températures.
+- Notions : Définition de fonction def, arguments, return.
+- Temps : 15 min.
+
+EXERCICE 12 : CALCULATRICE MODULAIRE
+- Consigne : Créer quatre fonctions (addition, soustraction, multiplication, division). Créer une cinquième fonction qui prend deux nombres et un opérateur en argument et appelle la bonne fonction.
+- Notions : Appel de fonctions, passage d'arguments.
+- Temps : 20 min.
+
+EXERCICE 13 : FORMATEUR DE TEXTE PROFESSIONNEL
+- Consigne : Créer une fonction qui prend une liste de noms et retourne une seule chaîne de caractères où les noms sont séparés par des virgules, sauf le dernier qui doit être précédé de "et".
+- Notions : Manipulation de listes, jointure, conditions de fin.
+- Temps : 25 min.
+
+EXERCICE 14 : GÉNÉRATEUR DE MOTS DE PASSE
+- Consigne : Créer une fonction qui génère un mot de passe de longueur n (passée en argument) contenant des lettres et des chiffres aléatoires.
+- Notions : Module random, module string.
+- Temps : 20 min.
+
+EXERCICE 15 : VÉRIFICATEUR DE PALINDROMES
+- Consigne : Écrire une fonction qui vérifie si un mot est un palindrome (se lit de la même façon dans les deux sens) en ignorant la casse.
+- Notions : Slicing de chaînes [::-1], méthodes .lower().
+- Temps : 15 min.
