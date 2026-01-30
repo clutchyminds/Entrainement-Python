@@ -1,0 +1,13 @@
+PROJET FINAL : ANALYSEUR DE PORTEFEUILLE D'INVESTISSEMENT
+
+Consigne :
+Développer une application qui :
+1. Lit un fichier local (JSON ou CSV) contenant une liste d'actifs (nom, quantité, prix d'achat).
+2. Utilise une API pour récupérer le prix actuel de ces actifs.
+3. Calcule la plus-value ou moins-value pour chaque ligne.
+4. Utilise Pandas pour générer un résumé statistique.
+5. Affiche un graphique circulaire de la répartition du capital avec Matplotlib.
+6. Gère les erreurs de connexion réseau et les fichiers manquants.
+
+Notions : API, Fichiers, Exceptions, POO, Pandas, Matplotlib.
+Temps estimé : 3 à 5 heures.
