@@ -1,0 +1,25 @@
+EXERCICE 01 : CALCULATEUR D'ÉCHÉANCE
+- Consigne : Demander l'âge de l'utilisateur. Calculer et afficher l'année précise à laquelle il fêtera ses 100 ans.
+- Notions : input(), conversion de types (int), opérations arithmétiques, f-strings.
+- Données : Utiliser l'année actuelle comme variable.
+- Temps : 5 min.
+
+EXERCICE 02 : SYSTÈME DE VALIDATION D'ACCÈS
+- Consigne : Créer un programme qui demande un identifiant et un mot de passe. Si l'identifiant est "admin" et le mot de passe "12345", afficher "Accès autorisé", sinon "Échec de connexion".
+- Notions : Conditions if / else, opérateurs de comparaison (==), opérateurs logiques (and).
+- Temps : 10 min.
+
+EXERCICE 03 : ANALYSEUR DE PARITÉ ET DE GRANDEUR
+- Consigne : Demander un nombre entier. Afficher s'il est pair ou impair, ET s'il est positif, négatif ou nul.
+- Notions : Modulo %, conditions imbriquées elif.
+- Temps : 10 min.
+
+EXERCICE 04 : GÉNÉRATEUR DE SIGLES
+- Consigne : Demander trois mots à l'utilisateur (ex: Réseau, National, SNCF). Extraire la première lettre de chaque mot pour créer et afficher un sigle en majuscules.
+- Notions : Indexation de chaînes [0], méthode .upper(), concaténation.
+- Temps : 10 min.
+
+EXERCICE 05 : BOUCLE DE SOMME CUMULATIVE
+- Consigne : Demander un nombre n. Calculer la somme de tous les entiers de 1 jusqu'à n (ex: pour 3, faire 1+2+3 = 6).
+- Notions : Boucle for, fonction range(), accumulateur.
+- Temps : 10 min.
