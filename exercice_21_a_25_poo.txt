@@ -1,0 +1,24 @@
+EXERCICE 21 : MODÉLISATION D'UN ARTICLE
+- Consigne : Créer une classe Article avec les attributs nom et prix. Ajouter une méthode pour afficher l'article formaté.
+- Notions : Classes, __init__, méthodes d'instance.
+- Temps : 20 min.
+
+EXERCICE 22 : GESTION DE STOCK
+- Consigne : Créer une classe Stock qui contient une liste d'objets Article. Ajouter une méthode pour calculer la valeur totale du stock.
+- Notions : Composition, interaction entre classes.
+- Temps : 30 min.
+
+EXERCICE 23 : SYSTÈME DE SALARIÉS (HÉRITAGE)
+- Consigne : Créer une classe Employe (nom, salaire). Créer une sous-classe Manager qui hérite d'Employe et possède un attribut supplémentaire bonus.
+- Notions : Héritage, fonction super().
+- Temps : 30 min.
+
+EXERCICE 24 : COMPTE BANCAIRE SÉCURISÉ
+- Consigne : Créer une classe avec un attribut privé __solde. Créer des méthodes pour déposer et retirer de l'argent avec des vérifications de sécurité.
+- Notions : Encapsulation, attributs privés.
+- Temps : 30 min.
+
+EXERCICE 25 : SIMULATEUR DE COMBAT RPG
+- Consigne : Créer une classe Entite avec des PV et une méthode recevoir_degats. Faire une boucle où deux entités s'attaquent jusqu'à ce que l'une tombe à 0 PV.
+- Notions : Logique objet complexe, boucles de jeu.
+- Temps : 40 min.
