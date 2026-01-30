@@ -1,0 +1,24 @@
+EXERCICE 06 : EXTRACTEUR DE MULTIPLES
+- Consigne : À partir d'une liste de nombres allant de 1 à 50, créer une nouvelle liste ne contenant que les multiples de 3.
+- Notions : Listes, boucles, méthode .append().
+- Temps : 15 min.
+
+EXERCICE 07 : RECHERCHE DE MAXIMUM MANUEL
+- Consigne : Créer une liste de 10 nombres. Trouver le nombre le plus grand de la liste en utilisant une boucle, sans utiliser la fonction max().
+- Notions : Itération, comparaison itérative.
+- Temps : 15 min.
+
+EXERCICE 08 : ANNUAIRE DE CONTACTS
+- Consigne : Créer un dictionnaire où les clés sont des noms et les valeurs des numéros de téléphone. Permettre à l'utilisateur de saisir un nom pour récupérer le numéro. Si le nom n'existe pas, afficher un message d'erreur.
+- Notions : Dictionnaires, méthode .get() ou vérification in.
+- Temps : 15 min.
+
+EXERCICE 09 : COMPTEUR DE FRÉQUENCE DE CARACTÈRES
+- Consigne : Demander une phrase. Créer un dictionnaire qui compte combien de fois chaque lettre apparaît dans la phrase.
+- Notions : Itération sur chaîne, mise à jour de dictionnaire.
+- Temps : 20 min.
+
+EXERCICE 10 : NETTOYAGE DE DOUBLONS
+- Consigne : Soit une liste contenant des doublons. Créer une version "propre" de la liste sans aucune répétition, tout en conservant l'ordre initial des éléments.
+- Notions : Listes, opérateurs d'appartenance not in.
+- Temps : 20 min.
