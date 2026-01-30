@@ -1,0 +1,24 @@
+EXERCICE 26 : REQUÊTE API MÉTÉO
+- Consigne : Utiliser la bibliothèque requests pour récupérer les données JSON d'une API de test et afficher une valeur spécifique.
+- Notions : Protocole HTTP, traitement de JSON externe.
+- Temps : 45 min.
+
+EXERCICE 27 : ANALYSE DE CSV AVEC PANDAS
+- Consigne : Charger un fichier CSV de données factices. Afficher les 5 premières lignes, puis filtrer les données pour n'afficher que les lignes répondant à une condition.
+- Notions : pandas, DataFrame, head(), filtrage.
+- Temps : 40 min.
+
+EXERCICE 28 : CALCUL DE STATISTIQUES AVEC NUMPY
+- Consigne : Créer un tableau Numpy de 100 nombres aléatoires. Calculer la moyenne, la médiane et l'écart-type.
+- Notions : numpy, fonctions statistiques.
+- Temps : 30 min.
+
+EXERCICE 29 : VISUALISATION GRAPHIQUE
+- Consigne : À partir de deux listes de données (X et Y), tracer un graphique linéaire avec un titre et des étiquettes sur les axes.
+- Notions : matplotlib.pyplot, plot(), show().
+- Temps : 30 min.
+
+EXERCICE 30 : AUTOMATE DE DOSSIERS
+- Consigne : Créer un script qui parcourt un dossier et trie les fichiers dans des sous-dossiers selon leur extension (ex: les .jpg dans un dossier "Images").
+- Notions : Module os ou pathlib, manipulation de chemins.
+- Temps : 1 heure.
